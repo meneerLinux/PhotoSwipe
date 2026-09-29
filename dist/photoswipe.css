@@ -16,7 +16,7 @@
   --pswp-icon-color: #fff;
   --pswp-icon-color-secondary: #4f4f4f;
   --pswp-icon-stroke-color: #4f4f4f;
-  --pswp-icon-stroke-width: 2px;
+  --pswp-icon-stroke-width: 3px;
 
   --pswp-error-text-color: var(--pswp-icon-color);
 }
